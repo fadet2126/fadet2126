@@ -12,7 +12,7 @@ I also have foundational knowledge in vulnerability management using Tenable Nes
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/fadet2126/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation]https://github.com/fadet2126/vulnerabilityManagementProgram/tree/main)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/fadet2126/programmatic-vulnerability-remediations)**
 
 <hr/>
