@@ -4,7 +4,7 @@ I am a cybersecurity enthusiast with a proactive mindset, continuously developin
 
 I also have foundational knowledge in vulnerability management using Tenable Nessus. Please explore my portfolio to see the work I’ve done to strengthen security processes and improve operational resilience.
 
-## 🚨 Threat Hunting and Security Operations
+##  Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/fadet2126/threat-hunting-scenario-tor)**
 - **[Creation of a Mini SOC and Honeynet](https://github.com/fadet2126/soc-and-honeynet)**
@@ -12,7 +12,7 @@ I also have foundational knowledge in vulnerability management using Tenable Nes
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation]https://github.com/fadet2126/vulnerabilityManagementProgram/tree/main)**
+- **[Vulnerability Management Program Implementation](https://github.com/fadet2126/vulnerabilityManagementProgram/tree/main)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/fadet2126/programmatic-vulnerability-remediations)**
 
 <hr/>
